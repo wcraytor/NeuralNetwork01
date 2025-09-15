@@ -1,4 +1,4 @@
-# Quarto + earth (MARS) demo
+# Python Neural Network Demo
 
 1. Open this folder in RStudio (or a terminal).
 2. Render with the **Render** button or run `quarto render`.
