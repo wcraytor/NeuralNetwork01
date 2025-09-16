@@ -1,7 +1,7 @@
 # Dockerfile
 # Place this file in your content repository root
 
-FROM ghcr.io/YOUR-GITHUB-USERNAME/baseenvpython01:latest
+FROM ghcr.io/wcraytor/baseenvpython01:latest
 
 # Copy your notebooks and content
 COPY . ${HOME}
