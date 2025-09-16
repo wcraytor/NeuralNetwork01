@@ -21,7 +21,7 @@ A neural network project for detecting cats in images using PyTorch and computer
 ## 🚀 Quick Start
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wcraytor/NeuralNetwork01/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wcraytor/BaseEnvPython01/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fwcraytor%252FNeuralNetwork01)
 
 Click the Binder button above to run this project in your browser!
 
