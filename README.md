@@ -5,7 +5,7 @@ A neural network project for detecting cats in images using PyTorch and computer
 """
   SPECIAL NOTES: 
 1.  If you haven't run Jupyter programs.  They are written in blocks. If you put the cursor on the code, it
-    will show a border around the blcok to execute the block, push the shift key and hit enter--- and wait..
+    will show a border around the block to execute the block, push the shift key and hit enter--- and wait..
 2.  The Jupyter file "organize_data_set.ipynb" will organize the 25K+ cat and dog photos into training, 
     validation, and test data sets.  The 25,000 photos will be far more than can be processed in a reasonable
     time using Github Binder (using the link in the README.md file).  It is set to 7% or 0.07, which should take
